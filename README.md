@@ -4,5 +4,8 @@
 - 📖 Estundando front-end
 - 😉 Pronouns: He/Him
 
-![Douglas-Machado GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-Machado&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Machado&layout=compact)](https://github.com/Douglas-Machado/github-readme-stats&theme=synthwave)
+  <div>
+    <a href="https://github.com/Douglas-Machado">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas-Machado&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Machado&layout=compact&theme=synthwave">
+  </div>
