@@ -1,7 +1,7 @@
 ## Olá, eu sou o Douglas Claudino Machado 👋
 
-- 💻 Desenvolvedor back-end
-- 📖 Estundando HTML, CSS, JavaSript, Node
+- 💻 Backend developer
+- 📖 Studying HTML, CSS, JavaSript, Node
 - 😉 Pronouns: He/Him
 
   <div>
