@@ -1,4 +1,4 @@
-## Olá, eu sou o Douglas Claudino Machado 👋
+## Hi, I am Douglas Claudino Machado 👋
 
 - 💻 Fullstack developer
 - 📖 Studying JavaSript, React, Node
