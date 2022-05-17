@@ -7,7 +7,7 @@
   <div>
     <a href="https://github.com/Douglas-Machado">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Douglas-Machado&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Machado&layout=compact&theme=synthwave">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Machado&langs_count=6&layout=compact&theme=synthwave">
   </div>
   
   <div style="display: inline_block"><br>
