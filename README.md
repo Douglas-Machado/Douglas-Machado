@@ -1,7 +1,7 @@
 ## Hi, I am Douglas Claudino Machado 👋
 
 - 💻 Fullstack developer
-- 📖 Studying JavaSript, React, Node
+- 📖 Studying TypeScript, React, Node
 - 😉 Pronouns: He/Him
 
   <div>
