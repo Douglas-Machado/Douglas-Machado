@@ -2,7 +2,6 @@
 
 - 💻 Fullstack developer
 - 📖 Studying TypeScript, React, Node
-- 😉 Pronouns: He/Him
 
   <div>
     <a href="https://github.com/Douglas-Machado">
