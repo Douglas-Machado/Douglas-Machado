@@ -1,7 +1,7 @@
 ## Hi, I am Douglas Claudino Machado 👋
 
 - 💻 Fullstack developer
-- 📖 Studying Java, TypeScript, React, Node
+- 📖 Studying Java, Python, TypeScript, React, Node
 
   <div>
     <a href="https://github.com/Douglas-Machado">
