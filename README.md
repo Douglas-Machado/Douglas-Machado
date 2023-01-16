@@ -1,9 +1,9 @@
 ## Hi, I am Douglas Claudino Machado 👋
 
 - 💻 Fullstack developer
-- 📖 Studying Java, Python, TypeScript, React, Node
+- 📖 Studying Go, Python
 
-  <div>
+ <!-- <div>
     <a href="https://github.com/Douglas-Machado">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Douglas-Machado&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-Machado&langs_count=6&layout=compact&theme=synthwave">
@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div>
+</div> !-->
   
   ##
   
