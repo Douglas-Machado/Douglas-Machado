@@ -1,7 +1,7 @@
 ## Hi, I am Douglas Claudino Machado 👋
 
 - 💻 Fullstack developer
-- 📖 Studying Go, Python
+- 📖 Studying Python and Django
 
  <!-- <div>
     <a href="https://github.com/Douglas-Machado">
